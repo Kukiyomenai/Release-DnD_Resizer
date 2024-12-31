@@ -9,7 +9,7 @@
 ### 各項目の説明
 ![DnD Resizer UI](https://github.com/Kukiyomenai/Release-DnD_Resizer/blob/main/README/image1.png)
 
-- **画面サイズ**  
+- **画像サイズ**  
   リサイズのための設定項目が3つあり、自由にサイズを指定できます。  
   また、サイズを変更しないオプションもあります。  
   さらに、比率を維持するためのチェックボックスも用意されています。
